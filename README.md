@@ -51,7 +51,7 @@
 </a>
 
 <a href="https://github.com/mathan1995">
- <img align="center" height="30%" src="https://github-readme-stats.vercel.app/api?username=mathan1995&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" height="50%" src="https://github-readme-stats.vercel.app/api?username=mathan1995&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
 
 
