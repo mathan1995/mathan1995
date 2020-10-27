@@ -56,7 +56,7 @@
 
   
 <a href="https://github.com/mathan1995">
-  <img align="center" height="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathan1995&&show_icons=true&hide_border=true) />
+  <img align="center" height="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathan1995&theme=light&hide_langs_below=1 />
 </a>
 
 <a href="https://github.com/mathan1995">
