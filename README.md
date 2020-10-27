@@ -1,6 +1,6 @@
 ## Hola, I'm [Mathangan Jeyakantharajah!](#) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=green&style=plastic" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mathan1995&label=Views&color=green&style=plastic" alt="mathan" /> </p>
 
 <a href="https://www.linkedin.com/in/mathangan-jeyakantharajah-413a69172?originalSubdomain=lk">
   <img align="left" alt="mathan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -64,9 +64,7 @@
 <a href="https://github.com/mathan1995/whatsapp__clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mathan1995&repo=whatsapp__clone&theme=dark" />
 </a>
-<a href="https://github.com/mathan1995/flutter-food-order">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mathan1995&repo=flutter-food-order&theme=dark" />
-</a>
+
 
 <a href="https://github.com/mathan1995/instagram-full-stack-MERN-CLONE">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mathan1995&repo=instagram-full-stack-MERN-CLONE&theme=dark" />
