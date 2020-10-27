@@ -47,7 +47,7 @@
     
 
 <a href="https://github.com/mathan1995">
-  <img align="center" height="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathan1995&theme=light&hide_langs_below=1" />
+  <img align="center" height="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathan1995&theme=light&hide_langs_height=27" />
 </a>
 
 <a href="https://github.com/mathan1995">
