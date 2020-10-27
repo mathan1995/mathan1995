@@ -67,4 +67,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mathan1995&repo=flutter-food-order&theme=dark" />
 </a>
 
+<a href="https://github.com/mathan1995/instagram-full-stack-MERN-CLONE">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mathan1995&repo=instagram-full-stack-MERN-CLONE&theme=dark" />
+</a>
+
+<a href="https://github.com/mathan1995/Face-Recgonition">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mathan1995&repo=Face-Recgonition&theme=dark" />
+</a>
+
 </div>
