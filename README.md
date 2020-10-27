@@ -35,9 +35,8 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 10 hours code + listening songs everyday and read atlease 2Hr perday.
 
-**Tech Stack and Tools:**  
-<br/>
-<br/>
+**Popular and used Tech Stack and Tools:**  
+
 <div style="flex-direction:row;">
   <code><img height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height=32px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
@@ -85,8 +84,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mathan1995&repo=Face-Recgonition&theme=dark" />
 </a>
 
-<a href="https://github.com/mathan1995/iBlood">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mathan1995&repo=iBlood&theme=dark" />
+<a href="https://github.com/mathan1995/react-native-animated-loader">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mathan1995&repo=react-native-animated-loader&theme=dark" />
 </a>
 
 </div>
