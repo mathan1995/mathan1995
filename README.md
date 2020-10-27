@@ -54,12 +54,12 @@
  <code><img height="32px" src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png"></code>  
  
 <a href="https://github.com/mathan1995">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathan1995&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathan1995&theme=light&hide_langs_below=1&hide_border=true" />
 </a>
   
 
 <a href="https://github.com/mathan1995">
- <img align="center" height="50%" src="https://github-readme-stats.vercel.app/api?username=mathan1995&show_icons=true&theme=light&&show_icons=true&hide_border=true)" alt="Pawan's github stats"/>
+ <img align="center" height="50%" src="https://github-readme-stats.vercel.app/api?username=mathan1995&show_icons=true&theme=light&show_icons=true&hide_border=true)" alt="Pawan's github stats"/>
 </a>
 
 
