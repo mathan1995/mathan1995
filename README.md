@@ -26,7 +26,7 @@
 
 
 
-- 🔭 I’m currently working on [Cambio Soft & Freelancer (AUS)].
+- 🔭 I’m currently working on [Pix Soft & Freelancer].
 - 🌱 I’m currently learning more about BlockChain NodeJs Flutter Machine Learning.
 - 👯 I’m looking to collaborate on [Instagram](https://instagram.com/mathan_jeya7).
 - 🤔 I’m looking for help with VelocityX documentation.
