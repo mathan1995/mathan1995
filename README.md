@@ -26,12 +26,10 @@
 
 
 
-- 🔭 I’m currently working on [Pix Soft & Freelancer].
+- 🔭 I’m currently working on [devtick].
 - 🌱 I’m currently learning more about BlockChain NodeJs Flutter Machine Learning.
 - 👯 I’m looking to collaborate on [Instagram](https://instagram.com/mathan_jeya7).
-- 🤔 I’m looking for help with VelocityX documentation.
 - 💬 Ask me about ReactNative, ReactJs and NodeJs Stuffs or any tech related stuff.
-- 📫 How to reach me: [Instagram - @mathan_jeya7](https://instagram.com/mathan_jeya7) , [Facebook - @mathanjeya](https://www.facebook.com/mathan.jeya.5)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 10 hours code + listening songs everyday and read atlease 2Hr perday.
 
@@ -81,8 +79,6 @@
 ![React native](https://img.shields.io/badge/-React%20native-000?&logo=React)
 ![Expo](https://img.shields.io/badge/-Expo-000?&logo=Expo)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-000?&logo=Gatsby)
-![Svelte](https://img.shields.io/badge/-Svelte-000?&logo=Svelte)
-![Electron](https://img.shields.io/badge/-Electron-000?&logo=Electron)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-000?&logo=Socket.io)
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-000?&logo=styled-components)
 ![Xcode](https://img.shields.io/badge/-Xcode-000?&logo=Xcode)
@@ -95,32 +91,9 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=Heroku)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
-![Directus](https://img.shields.io/badge/-Directus-000?&logo=Directus)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=jira-software)
-![Sentry](https://img.shields.io/badge/-Sentry-000?&logo=Sentry)
-![Plesk](https://img.shields.io/badge/-Plesk-000?&logo=Plesk)
 ![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=Auth0)
 ![Ant Design](https://img.shields.io/badge/-Ant%20Design-000?&logo=Ant-Design)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-000?&logo=Material-UI)
 
-<div align="center">
 
-### Show some ❤️ by starring some of the repositories!
-<a href="https://github.com/mathan1995/whatsapp__clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mathan1995&repo=whatsapp__clone&theme=dark" />
-</a>
-
-
-<a href="https://github.com/mathan1995/instagram-full-stack-MERN-CLONE">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mathan1995&repo=instagram-full-stack-MERN-CLONE&theme=dark" />
-</a>
-
-<a href="https://github.com/mathan1995/Face-Recgonition">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mathan1995&repo=Face-Recgonition&theme=dark" />
-</a>
-
-<a href="https://github.com/mathan1995/react-native-animated-loader">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mathan1995&repo=react-native-animated-loader&theme=dark" />
-</a>
-
-</div>
