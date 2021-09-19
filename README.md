@@ -53,7 +53,7 @@
   </div>
 
  <br>
- <div style="flex-direction:row; width:'100%';">
+ <div style="flex-direction:row; width:100%;">
     <a href="https://github.com/mathan1995">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathan1995&theme=light&hide_langs_below=1&hide_border=true" />
 </a>
