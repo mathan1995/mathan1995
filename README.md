@@ -53,14 +53,16 @@
   </div>
 
  <br>
- <div style="flex-direction:row; width:100%;">
-    <a href="https://github.com/mathan1995">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathan1995&theme=light&hide_langs_below=1&hide_border=true" />
-</a>
+
+  <table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathan1995&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=mathan1995&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+  </tr>
+</table>
   
 
 
-</div>
 
 ##### What I know
 
