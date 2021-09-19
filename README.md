@@ -33,7 +33,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 10 hours code + listening songs everyday and read atlease 2Hr perday.
 
-**Popular and used Tech Stack and Tools:**  
+**Much Preffer Tech Stack and tools:**  
 
 <div style="flex-direction:row;">
   <code><img height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -56,7 +56,7 @@
 
   <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathan1995&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathan1995&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="height:100%"/></td>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=mathan1995&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
   </tr>
 </table>
