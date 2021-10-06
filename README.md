@@ -27,11 +27,11 @@
 
 
 - 🔭 I’m currently working on [devtick].
-- 🌱 I’m currently learning more about BlockChain NodeJs Flutter Machine Learning.
+- 🌱 I’m currently learning more about BlockChain, Aws and NodeJs.
 - 👯 I’m looking to collaborate on [Instagram](https://instagram.com/mathan_jeya7).
-- 💬 Ask me about ReactNative, ReactJs and NodeJs Stuffs or any tech related stuff.
+- 💬 Ask me about ReactNative,Flutter,Vue3, ReactJs and NodeJs Stuffs or any tech related stuff.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 10 hours code + listening songs everyday and read atlease 2Hr perday.
+- ⚡ Fun fact: I spend almost 10 hours code + listening songs everyday and read atlease 1Hr perday.
 
 **Much Preffer Tech Stack and tools:**  
 
