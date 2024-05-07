@@ -1,7 +1,7 @@
 ## Hola, I'm [Mathangan Jeyakantharajah!](#) 👋
 
-- 🔭 I’m currently working on [devtick].
-- 🌱 I’m currently on learning curve with Web3 and Gen-AI.
+- 🔭 Freelance Developer.
+- 🌱 currently on learning curve with Web3 and Gen-AI.
 - 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/jmathangan/).
 - 💬 Ask me about React.js, ReactNative,Flutter,Vue3,Django and NodeJs or any tech related stuff.
 - 😄 Pronouns: He/His
