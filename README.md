@@ -27,11 +27,10 @@
 
 
 - 🔭 I’m currently working on [devtick].
-- 🌱 I’m currently learning more about BlockChain, Aws and NodeJs.
-- 👯 I’m looking to collaborate on [Instagram](https://instagram.com/mathan_jeya7).
-- 💬 Ask me about ReactNative,Flutter,Vue3, ReactJs and NodeJs Stuffs or any tech related stuff.
+- 🌱 I’m currently on learning curve with Web3 and Gen-AI.
+- 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/jmathangan/).
+- 💬 Ask me about React.js, ReactNative,Flutter,Vue3,Django and NodeJs or any tech related stuff.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 10 hours code + listening songs everyday and read atlease 1Hr perday.
 
 **Much Preffer Tech Stack and tools:**  
 
@@ -52,14 +51,7 @@
  <code><img height="32px" src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png"></code>
   </div>
 
- <br>
 
-  <table>
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathan1995&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="height:180px;"/></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=mathan1995&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
-  </tr>
-</table>
   
 
 
