@@ -1,12 +1,5 @@
 ## Hola, I'm [Mathangan Jeyakantharajah!](#) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
-
-<br/>
-<br/>
-
-
-
 - 🔭 I’m currently working on [devtick].
 - 🌱 I’m currently on learning curve with Web3 and Gen-AI.
 - 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/jmathangan/).
